@@ -1,24 +1,3 @@
 # Server-Side-Development-with-NodeJS-coursera
 Solutions for assignment for the Server side development course with NodeJS - Coursera. 
-This course is focused on the server-side
-part of coding. Interesting and various
-servers to make this course a great
-learning tool in back-end coding.
-Week 1 and 2:
-
-    Node.js and NPM
-    Node Modules
-    Node and the HTTP module
-    Express, REST API, Express generator
-    MongoDB, MongooseODM
-
-Week 3 and 4:
-
-    REST API with MongoDB, Express and Mongoose
-    Authentication
-    Cookies
-    User-Authentication with passport
-    Mongoose Population
-    HTTPS and Secure communication
-    OAuth with passport and facebook
-    Loopback, Data sources and Access control
+This is the assignments repository for Coursera's Server-side Development with NodeJS, Express and MongoDB (https://www.coursera.org/learn/server-side-nodejs). Assignments are classified into their respective directories and you can find assignment instructions in the pdf file in each directory under the actual project folder. In order to run the assignments you will need Node JS and Angular CLI installed. After installation, go into the folder Coursera-Server-Side-Development and run npm install to install all the depedencies. Please note this repository is only for the information/audit purposes, don't use it to copy the assignments if you're also taking the course.
